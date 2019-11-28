@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CorrentometroBT</string>
+    <string name="IdControl">Datos</string>
+    <string name="Buffer">Buffer</string>
+    <string name="IdbufferHistorial">Historial</string>
+    <string name="IdDesconectar">Desconectar</string>
+    <string name="Pause">Pausar</string>
+    <string name="Reset">Reiniciar</string>
+    <string name="Save">Guardar Datos</string>
+    <string name="Load">Cargar Datos</string>
+    <string name="Return">Volver</string>
+    <string name="conexion">Sin conexión</string>
+</resources>
